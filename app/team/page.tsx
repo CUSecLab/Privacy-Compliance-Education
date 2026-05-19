@@ -51,10 +51,10 @@ const studentResearchers = [
     email: "jingwey@g.clemson.edu",
   },
   {
-    name: "Pal Dave",
-    role: "PhD Candidate - 3rd Year",
+    name: "Ehsan Alam",
+    role: "PhD Candidate",
     institution: "North Carolina A&T State University",
-    email: "pvdave@aggies.ncat.edu",
+    email: "ealam@aggies.ncat.edu",
   },
 ]
 
