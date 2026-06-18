@@ -14,10 +14,10 @@ export function SideNavigation() {
     { href: "/curriculum", label: "Curriculum Modules" },
     { href: "/labs", label: "Hands-on Labs" },
     { href: "/pricomp-platform", label: "PRICOMP Platform" },
-    { href: "/broader-impacts", label: "Broader Impacts & Outreach" },
+
     { href: "/publications", label: "Publications" },
     { href: "/team", label: "Team" },
-    { href: "/timeline", label: "Timeline & Evaluation" },
+    
     { href: "/resources", label: "Resources / Downloads" },
   ]
 
